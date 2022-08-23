@@ -5,6 +5,7 @@ Create a folder
 mkdir /Project
 Place the file in hdfs
 -put /home/training/Desktop/Files /Project/
+
 Start Hive
 sudo service zookeeper-server start
 sudo service hive-server2 start
